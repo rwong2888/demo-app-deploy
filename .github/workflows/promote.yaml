@@ -5,10 +5,6 @@ on:
       - main
 
 jobs:
-  placeholder:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo "promote workflow currently disabled"
 
   promote-image-change:
     runs-on: ubuntu-latest
