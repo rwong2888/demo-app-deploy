@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/rwong2888/demo-app
-  newTag: eb1c53cb3a7fd019806a678611e0ae67da1a750a
+  newTag: 50b2168833e6c44ed053e2e3ed5223cfa07c3952
