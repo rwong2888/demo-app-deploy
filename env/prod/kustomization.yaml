@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/rwong2888/demo-app
+  newTag: 50b2168833e6c44ed053e2e3ed5223cfa07c3952
